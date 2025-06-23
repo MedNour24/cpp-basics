@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750580781 source:d:\2a\2a\c++\opening_a_text_file_for_reading\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
