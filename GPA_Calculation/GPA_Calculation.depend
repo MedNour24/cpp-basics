@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1750543940 source:d:\2a\2a\c++\gpa_calculation\records.cpp
+	"records.h"
+
+1750543940 d:\2a\2a\c++\gpa_calculation\records.h
+	<string>
+
+1750543969 source:d:\2a\2a\c++\gpa_calculation\main.cpp
+	<iostream>
+	<vector>
+	"records.h"
+

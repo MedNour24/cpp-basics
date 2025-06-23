@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1750432157 source:d:\2a\2a\c++\classes\main.cpp
+	<iostream>
+	<string>
+	"cow.h"
+
+1750432722 d:\2a\2a\c++\classes\cow.h
+	<string>
+

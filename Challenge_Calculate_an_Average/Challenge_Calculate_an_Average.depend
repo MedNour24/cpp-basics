@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750350709 source:d:\2a\2a\c++\challenge_calculate_an_average\main.cpp
+	<iostream>
+	<cstdint>
+

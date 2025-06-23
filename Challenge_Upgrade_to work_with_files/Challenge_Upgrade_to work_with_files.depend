@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1750582564 source:d:\2a\2a\c++\challenge_upgrade_to work_with_files\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"records.h"
+
+1750582605 d:\2a\2a\c++\challenge_upgrade_to work_with_files\records.h
+	<vector>
+	<string>
+	<fstream>
+
+1750582648 source:d:\2a\2a\c++\challenge_upgrade_to work_with_files\records.cpp
+	"records.h"
+	<iostream>
+	<fstream>
+

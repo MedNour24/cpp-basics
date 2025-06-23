@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1750538735 source:d:\2a\2a\c++\challenge_create_some_classes\main.cpp
+	<iostream>
+	<string>
+	"records.h"
+
+1750540069 d:\2a\2a\c++\challenge_create_some_classes\records.h
+	<string>
+
+1750538969 source:d:\2a\2a\c++\challenge_create_some_classes\records.cpp
+	"records.h"
+
