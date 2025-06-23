@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1750492392 source:d:\2a\2a\c++\using_objects_with_vectors\cow.cpp
+	"cow.h"
+
+1750492353 d:\2a\2a\c++\using_objects_with_vectors\cow.h
+	<string>
+
+1750493017 source:d:\2a\2a\c++\using_objects_with_vectors\main.cpp
+	<vector>
+	<iostream>
+	<string>
+	"cow.h"
+

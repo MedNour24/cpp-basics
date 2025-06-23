@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750331689 source:d:\2a\2a\c++\preprocessor_directives\main.cpp
+	<iostream>
+	<string>
+	<cstdint>
+

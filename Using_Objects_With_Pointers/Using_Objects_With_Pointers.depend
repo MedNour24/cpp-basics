@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1750490111 source:d:\2a\2a\c++\using_objects_with_pointers\cow.cpp
+	"cow.h"
+
+1750490132 d:\2a\2a\c++\using_objects_with_pointers\cow.h
+	<string>
+
